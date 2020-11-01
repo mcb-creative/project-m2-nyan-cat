@@ -20,5 +20,5 @@ The goal of the game is to stay alive as long as possible by avoiding the Nyan C
 
 <p align="center"><img src="./images/restar.png"></p>
 
-
+Give it a shot here: https://gallant-turing-09290e.netlify.app
 
