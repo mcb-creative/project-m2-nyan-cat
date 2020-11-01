@@ -5,7 +5,9 @@ class Text {
   constructor(root, xPos, yPos) {
     // We create a DOM element, set its CSS attributes then append it to the parent DOM element. We also
     // set the \`domElement\` property of the instance to the newly created DOM element so we can update it later
-    const div = document.createElement('div');
+    this.score = 0;
+
+    let div = document.createElement('div');
 
     div.style.position = 'absolute';
     div.style.left = xPos;
